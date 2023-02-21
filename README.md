@@ -22,7 +22,8 @@ To create the kernel matrix and then perform 10-fold cross valiation, first spec
 python main.py
 ```
 
-### Cite
+## Cite
+
 Please cite our paper if you use this code:
 ```
 @inproceedings{nikolentzos2023graph,
