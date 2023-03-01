@@ -16,7 +16,7 @@ Download the datasets from here: https://chrsmrrs.github.io/datasets/docs/datase
 
 ### Constructing Kernel Matrix and Evaluation
 
-To create the kernel matrix and then perform 10-fold cross valiation, first specify the dataset and the hyperparameter T in the main.py file and then execute:
+To create the kernel matrix and then perform 10-fold cross validation, first specify the dataset and the hyperparameter T in the main.py file and then execute:
 
 ```
 python main.py
