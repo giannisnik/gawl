@@ -30,6 +30,7 @@ Please cite our paper if you use this code:
   title={Graph Alignment Kernels using Weisfeiler and Leman Hierarchies},
   author={Nikolentzos, Giannis and Vazirgiannis, Michalis},
   booktitle={Proceedings of the 26th International Conference on Artificial Intelligence and Statistics},
+  pages={2019--2034},
   year={2023}
 }
 ```
