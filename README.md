@@ -1,6 +1,6 @@
 # Graph Alignment Kernels using Weisfeiler and Leman Hierarchies
 
-This repository is the official implementation of Graph Alignment Kernels using Weisfeiler and Leman Hierarchies.
+This repository is the official implementation of [Graph Alignment Kernels using Weisfeiler and Leman Hierarchies](https://proceedings.mlr.press/v206/nikolentzos23b/nikolentzos23b.pdf).
 
 ### Requirements
 
